@@ -8,9 +8,6 @@ Welcome, You are my [![Visitor Count](https://profile-counter.glitch.me/AtomAski
 
 📧 Email: atomasking@outlook.com  
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=AtomAsking&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Atom's github stats" />| <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AtomAsking&layout=compact&theme=buefy&hide_border=true" /> |
-| ------------- | ------------- |
-
 <table>
   <tr>
     <td align="center" width="96">
@@ -122,3 +119,8 @@ Welcome, You are my [![Visitor Count](https://profile-counter.glitch.me/AtomAski
  <tr>
  </tr>
 </table>
+
+
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=AtomAsking&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Atom's github stats" />| <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AtomAsking&layout=compact&theme=buefy&hide_border=true" /> |
+| ------------- | ------------- |
+
